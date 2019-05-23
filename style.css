@@ -1,0 +1,179 @@
+body {
+background-color: #07d1ff;
+}
+
+.sticky {
+position: -webkit-sticky;
+position: sticky;
+top: 0;
+z-index: 9999;
+background-color: rgba(0, 0, 0, 0.5);
+}
+
+.home {
+max-width: 50px;
+transform: translate(0%, 50%);
+border: 0;
+}
+
+.newspage {
+}
+
+.explorepage {
+}
+
+.exploretext {
+top: 50%;
+left 50%;
+transform: translate(25%, -50%);
+-ms-transform: translate(25%, -50%);
+color: black;
+text-align: center;
+}
+
+.playnow {
+background-image: url("Images/capture.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+height: 755px; 
+}
+
+.enemies {
+top: 50%;
+left: 50%;
+transform: translate(50%, -25%);
+-ms-transfrom: translate(50%, -25%);
+width: 50%;	
+}
+
+.warlord {
+top: 50%;
+left: 50%;
+transform: translate(0%, -10%);
+-ms-transfrom: translate(0%, -10%);
+width: 100%;	
+}
+
+.explore {
+top: 50%;
+left: 50%;
+transform: translate(15%, -50%);
+-ms-transfrom: translate(15%, -50%);
+width: 50%;	
+}
+
+.btn-group .button {
+position: relative;
+top: 50%;
+left: 50%;
+transform: translate(-160%, -50%);
+-ms-transform: translate(-160%, -50%);
+background-image: url("Images/capture.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+border: 1px solid #d4430c;
+color: #d4430c;
+padding: 85px 141px;
+text-align: center;
+font-weight: bold;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+cursor: pointer;
+margin-right: 37px;
+}
+
+.btn-group2 .button {
+position: relative;
+border: 1px solid #d4430c;
+color: #d4430c;
+background-color:black;
+padding: 15px 32px;
+text-align: center;
+font-weight: bold;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+cursor: pointer;
+}
+
+.btn {
+position: relative;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -250%);
+-ms-transform: translate(-50%, -250%);
+background-color: #d4430c;
+color: black;
+font-size: 20px;
+padding: 16px 30px;
+border: none;
+cursor: pointer;
+text-align: center;
+font-weight: bold;
+}
+
+.btn2 {
+position: relative;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -250%);
+-ms-transform: translate(-50%, -250%);
+background-color: #d4430c;
+color: black;
+font-size: 20px;
+padding: 16px 30px;
+border: none;
+cursor: pointer;
+text-align: center;
+font-weight: bold;
+}
+
+h1 {
+color: white;
+text-align: center;
+background-image: url("Images/capture.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+height: 755px; 
+}
+
+p {
+font-family: "Times New Roman";
+font-size: 20px;
+}
+
+h2 {
+	color: white;
+	text-align: center;
+height: 175px;
+}
+
+h3 {
+top: 50%;
+left 50%;
+transform: translate(25%, -50%);
+-ms-transform: translate(25%, -50%);
+color: white;
+text-align: center;
+}
+
+h4 {
+top: 50%;
+left 50%;
+transform: translate(25%, -50%);
+-ms-transform: translate(25%, -50%);
+color: black;
+text-align: center;
+}
+
+.socialmedia {
+top: 50%;
+left 50%;
+transform: translate(2000%, 0%);
+-ms-transform: translate(2000%, 0%);
+max-width: 0.9%;
+}
